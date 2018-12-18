@@ -23,3 +23,8 @@ migrate mongodb data to dynamodb
 ```
 npm run migrate-data
 ```
+
+create empty tables to dynamodb
+```
+npm run create-empty-tables
+```
